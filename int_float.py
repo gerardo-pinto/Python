@@ -1,0 +1,5 @@
+print("datos de la primera persona")
+nom=input("Ingrese el nombre: ")
+ape=input("Ingrese apellido: ")
+nombre=(nom + " " + ape)
+print("SU NOMBRE ES " + nombre)
